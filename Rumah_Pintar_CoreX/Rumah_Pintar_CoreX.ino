@@ -1,6 +1,6 @@
 /*
 URL Project: https://github.com/CoreX-IoT/IoT-Project/tree/production/Rumah_Pintar_CoreX
-Autor: Duwipangga
+Author: Duwipangga
 Page: https://corex.id/project/Rumah_pintar_coreX
 Tutorial: https://blog.corex.id/membuat-smart-home-menggunakan-corex
 */
